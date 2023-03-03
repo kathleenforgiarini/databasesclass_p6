@@ -1,0 +1,16 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+28 Fevereiro 2023 01:29:59
+
+
+Procedure P6QUESTION5 compilado
+
+Consultant id: 101, Name: Sheila Hernandez, City: Eau Claire.
+--------------------------------------------------------------------------------------------
+Certification ID: 4, Before: N, After: Y.
+Certification ID: 5, Before: N, After: Y.
+
+
+Procedimento PL/SQL concluído com sucesso.
+

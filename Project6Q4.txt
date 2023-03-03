@@ -1,0 +1,51 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+27 Fevereiro 2023 08:24:11
+
+
+Procedure P6QUESTION4 compilado
+
+Item id: 1, Men's Expedition Parka, total value $28712,85. Category id: 3
+Inventory id: 23, price $199,95, quantity: 114.
+Inventory id: 24, price $199,95, quantity: 17.
+Inventory id: 25, price $209,95, quantity: 0.
+Inventory id: 26, price $209,95, quantity: 12.
+Item id: 2, 3-Season Tent, total value $7279,72. Category id: 4
+Inventory id: 1, price $259,99, quantity: 16.
+Inventory id: 2, price $259,99, quantity: 12.
+Item id: 3, Women's Hiking Shorts, total value $20605,6. Category id: 1
+Inventory id: 3, price $29,95, quantity: 150.
+Inventory id: 4, price $29,95, quantity: 147.
+Inventory id: 5, price $29,95, quantity: 0.
+Inventory id: 6, price $29,95, quantity: 139.
+Inventory id: 7, price $29,95, quantity: 137.
+Inventory id: 8, price $29,95, quantity: 115.
+Item id: 4, Women's Fleece Pullover, total value $43523,7. Category id: 1
+Inventory id: 9, price $59,95, quantity: 135.
+Inventory id: 10, price $59,95, quantity: 168.
+Inventory id: 11, price $59,95, quantity: 187.
+Inventory id: 12, price $59,95, quantity: 0.
+Inventory id: 13, price $59,95, quantity: 124.
+Inventory id: 14, price $59,95, quantity: 112.
+Item id: 5, Children's Beachcomber Sandals, total value $16117,92. Category id: 2
+Inventory id: 15, price $15,99, quantity: 121.
+Inventory id: 16, price $15,99, quantity: 111.
+Inventory id: 17, price $15,99, quantity: 113.
+Inventory id: 18, price $15,99, quantity: 121.
+Inventory id: 19, price $15,99, quantity: 148.
+Inventory id: 20, price $15,99, quantity: 137.
+Inventory id: 21, price $15,99, quantity: 134.
+Inventory id: 22, price $15,99, quantity: 123.
+Item id: 6, Boy's Surf Shorts, total value $3987,5. Category id: 2
+Inventory id: 27, price $15,95, quantity: 50.
+Inventory id: 28, price $15,95, quantity: 100.
+Inventory id: 29, price $15,95, quantity: 100.
+Item id: 7, Girl's Soccer Tee, total value $5997. Category id: 2
+Inventory id: 30, price $19,99, quantity: 100.
+Inventory id: 31, price $19,99, quantity: 100.
+Inventory id: 32, price $19,99, quantity: 100.
+
+
+Procedimento PL/SQL concluído com sucesso.
+

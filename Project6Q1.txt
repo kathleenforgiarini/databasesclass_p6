@@ -1,0 +1,23 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+27 Fevereiro 2023 05:59:22
+
+
+Procedure P6QUESTION1 compilado
+
+Faculty Member: 1 is Kim Cox, ASSO
+    Student Advised: Sarah Miller (ID 1, 14/07/85, SR)
+    Student Advised: Brian Umato (ID 2, 19/08/85, SR)
+    Student Advised: Daniel Black (ID 3, 10/10/82, JR)
+Faculty Member: 2 is John Blanchard, FULL
+    Student Advised: Amanda Mobley (ID 4, 24/09/86, SO)
+Faculty Member: 3 is Jerry Williams, ASST
+    Student Advised: Michael Connoly (ID 6, 04/12/86, FR)
+Faculty Member: 4 is Laura Sheng, INST
+    Student Advised: Ruben Sanchez (ID 5, 20/11/86, SO)
+Faculty Member: 5 is Philip Brown, ASSO
+
+
+Procedimento PL/SQL concluído com sucesso.
+

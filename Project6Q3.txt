@@ -1,0 +1,58 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+27 Fevereiro 2023 08:15:30
+
+
+Procedure P6QUESTION4 compilado
+
+LINE/COL  ERROR
+--------- -------------------------------------------------------------
+3/1       PL/SQL: SQL Statement ignored
+4/27      PL/SQL: ORA-00911: caractere inválido
+7/20      PLS-00103: Encontrado o símbolo " " quando um dos seguintes símbolos era esperado:     começar function pragma procedimento subtype tipo    <um identificador>    <um identificador delimitado por aspas duplas> atual cursor    deletar existe prior O símbolo " " foi ignorado. 
+18/35     PLS-00103: Encontrado o símbolo " " quando um dos seguintes símbolos era esperado:     começar function pragma procedimento subtype tipo    <um identificador>    <um identificador delimitado por aspas duplas> atual cursor    deletar existe prior 
+Erros: verifique o log do compilador
+Item 1 is Men's Expedition Parka, with the category 3
+Inventory 23 is color Spruce, size S. Its price is: $199,95. Quantity of: 114
+Inventory 24 is color Spruce, size M. Its price is: $199,95. Quantity of: 17
+Inventory 25 is color Spruce, size L. Its price is: $209,95. Quantity of: 0
+Inventory 26 is color Spruce, size XL. Its price is: $209,95. Quantity of: 12
+Item 2 is 3-Season Tent, with the category 4
+Inventory 1 is color Sky Blue, size . Its price is: $259,99. Quantity of: 16
+Inventory 2 is color Light Grey, size . Its price is: $259,99. Quantity of: 12
+Item 3 is Women's Hiking Shorts, with the category 1
+Inventory 3 is color Khaki, size S. Its price is: $29,95. Quantity of: 150
+Inventory 4 is color Khaki, size M. Its price is: $29,95. Quantity of: 147
+Inventory 5 is color Khaki, size L. Its price is: $29,95. Quantity of: 0
+Inventory 6 is color Navy, size S. Its price is: $29,95. Quantity of: 139
+Inventory 7 is color Navy, size M. Its price is: $29,95. Quantity of: 137
+Inventory 8 is color Navy, size L. Its price is: $29,95. Quantity of: 115
+Item 4 is Women's Fleece Pullover, with the category 1
+Inventory 9 is color Eggplant, size S. Its price is: $59,95. Quantity of: 135
+Inventory 10 is color Eggplant, size M. Its price is: $59,95. Quantity of: 168
+Inventory 11 is color Eggplant, size L. Its price is: $59,95. Quantity of: 187
+Inventory 12 is color Royal, size S. Its price is: $59,95. Quantity of: 0
+Inventory 13 is color Royal, size M. Its price is: $59,95. Quantity of: 124
+Inventory 14 is color Royal, size L. Its price is: $59,95. Quantity of: 112
+Item 5 is Children's Beachcomber Sandals, with the category 2
+Inventory 15 is color Turquoise, size 10. Its price is: $15,99. Quantity of: 121
+Inventory 16 is color Turquoise, size 11. Its price is: $15,99. Quantity of: 111
+Inventory 17 is color Turquoise, size 12. Its price is: $15,99. Quantity of: 113
+Inventory 18 is color Turquoise, size 1. Its price is: $15,99. Quantity of: 121
+Inventory 19 is color Bright Pink, size 10. Its price is: $15,99. Quantity of: 148
+Inventory 20 is color Bright Pink, size 11. Its price is: $15,99. Quantity of: 137
+Inventory 21 is color Bright Pink, size 12. Its price is: $15,99. Quantity of: 134
+Inventory 22 is color Bright Pink, size 1. Its price is: $15,99. Quantity of: 123
+Item 6 is Boy's Surf Shorts, with the category 2
+Inventory 27 is color Blue, size S. Its price is: $15,95. Quantity of: 50
+Inventory 28 is color Blue, size M. Its price is: $15,95. Quantity of: 100
+Inventory 29 is color Blue, size L. Its price is: $15,95. Quantity of: 100
+Item 7 is Girl's Soccer Tee, with the category 2
+Inventory 30 is color White, size S. Its price is: $19,99. Quantity of: 100
+Inventory 31 is color White, size M. Its price is: $19,99. Quantity of: 100
+Inventory 32 is color White, size L. Its price is: $19,99. Quantity of: 100
+
+
+Procedimento PL/SQL concluído com sucesso.
+
